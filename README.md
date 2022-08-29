@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm ahmet sarikaya</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetsarikaya0696&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetsarikaya0696" /> </p>
 
 - 📫 How to reach me **ahmetsarikaya0696@gmail.com**
 
