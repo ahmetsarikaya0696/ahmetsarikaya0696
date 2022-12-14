@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm ahmet sarikaya</h1>
-<h3 align="center">A software developer from Turkey!</h3>
-<hr>
+<h1 align="center">Hi 👋, I'm ahmet sarikaya. A software developer from Turkey!</h1>
 <h4 align="center">Why do programmers prefer dark mode?<br>Because light attracts too many bugs.</h4>
-<hr>
 
 - 📫 How to reach me **ahmetsarikaya0696@gmail.com**
 
