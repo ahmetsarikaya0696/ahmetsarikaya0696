@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 <p align="center">
-  I'm Ahmet Sarıkaya, a software developer from Turkey.
+  I'm ahmet sarikaya, a software developer from Turkey.
 </p>
 <p align="center">
   <blockquote>
