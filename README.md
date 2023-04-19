@@ -3,7 +3,10 @@
   I'm Ahmet Sarıkaya, a software developer from Turkey.
 </p>
 <p align="center">
-  <em>Why do programmers prefer dark mode? Because light attracts too many bugs.</em>
+  <blockquote>
+    <p align="center"><em>Why do programmers prefer dark mode?<br>Because light attracts too many bugs.</em></p>
+    <p align="center"><em>- ChatGPT</em></p>
+  </blockquote>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
