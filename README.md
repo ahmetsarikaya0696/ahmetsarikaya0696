@@ -2,6 +2,10 @@
 <p align="center">
   I'm ahmet sarikaya, a software developer from Turkey.
 </p>
+<h3 align="center">About Me:</h3>
+<p align="center">
+I have 1.5 years of professional experience working at Baskent University IT Department and Birfatura. During this time, I honed my skills in software development and gained valuable industry insights. Currently, I am actively seeking new opportunities where I can contribute my expertise and grow further in my career.
+</p>
 <p align="center">
   <blockquote>
     <p align="center"><em>Why do programmers prefer dark mode?<br>Because light attracts too many bugs.</em></p>
