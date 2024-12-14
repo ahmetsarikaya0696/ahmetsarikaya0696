@@ -6,12 +6,6 @@
 <p align="center">
 I have 1.5 years of professional experience working at Baskent University IT Department and Birfatura. During this time, I honed my skills in software development and gained valuable industry insights. Currently, I am actively seeking new opportunities where I can contribute my expertise and grow further in my career.
 </p>
-<p align="center">
-  <blockquote>
-    <p align="center"><em>Why do programmers prefer dark mode?<br>Because light attracts too many bugs.</em></p>
-    <p align="center"><em>- ChatGPT</em></p>
-  </blockquote>
-</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/ahmetsarikaya0696" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
