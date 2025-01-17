@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">About Me:</h3>
 <p align="center">
-I have 1.5 years of professional experience working at Baskent University IT Department and Birfatura. During this time, I honed my skills in software development and gained valuable industry insights. Currently, I am actively seeking new opportunities where I can contribute my expertise and grow further in my career.
+I have 1.5 years of professional experience working at Baskent University IT Department and Birfatura. During this time, I honed my skills in software development and gained valuable industry insights. Currently, I am working as a Software Developer at Beyes.
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
