@@ -21,7 +21,7 @@
       <br/>
       <h3>🌐 Connect with me</h3>
       <p>
-        <a href="https://linkedin.com/in/ahmetsarikaya0696" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        <a href="https://www.linkedin.com/in/ahmetsarikaya0696" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="https://stackoverflow.com/users/18330549" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
         <a href="https://instagram.com/ahmetsarikaya0696" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
       </p>
